@@ -1,2 +1,2 @@
-# farzie.github.io
+# farzieweb
 just playing with python.
